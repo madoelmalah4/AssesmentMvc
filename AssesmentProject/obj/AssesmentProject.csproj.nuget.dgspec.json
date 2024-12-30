@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\AssesmentProject.csproj": {}
+    "C:\\Users\\mohamed.eslam\\Desktop\\MohammedIslam(0523013)W4\\AssesmentProject\\AssesmentProject\\AssesmentProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\AssesmentProject.csproj": {
+    "C:\\Users\\mohamed.eslam\\Desktop\\MohammedIslam(0523013)W4\\AssesmentProject\\AssesmentProject\\AssesmentProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\AssesmentProject.csproj",
+        "projectUniqueName": "C:\\Users\\mohamed.eslam\\Desktop\\MohammedIslam(0523013)W4\\AssesmentProject\\AssesmentProject\\AssesmentProject.csproj",
         "projectName": "AssesmentProject",
-        "projectPath": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\AssesmentProject.csproj",
+        "projectPath": "C:\\Users\\mohamed.eslam\\Desktop\\MohammedIslam(0523013)W4\\AssesmentProject\\AssesmentProject\\AssesmentProject.csproj",
         "packagesPath": "C:\\Users\\mohamed.eslam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\obj\\",
+        "outputPath": "C:\\Users\\mohamed.eslam\\Desktop\\MohammedIslam(0523013)W4\\AssesmentProject\\AssesmentProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohamed.eslam\\AppData\\Roaming\\NuGet\\NuGet.Config",
