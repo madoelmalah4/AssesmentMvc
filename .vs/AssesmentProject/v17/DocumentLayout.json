@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment1/True/SqlTable/dbo.Tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment1/True/SqlTable/dbo.TeamMembers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\views\\teammember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\views\\teammember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\views\\teammember\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\views\\teammember\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\views\\teammember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\views\\teammember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\views\\teammember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\views\\teammember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\migrations\\20241230100356_adddbcontextmg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\migrations\\20241230100356_adddbcontextmg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment1/True/SqlTable/dbo.Projects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.Tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.TeamMembers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|c:\\users\\mohamed.eslam\\source\\repos\\assesmentproject\\assesmentproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC0E33E-C7D7-4649-A1C2-9706B13060F3}|AssesmentProject\\AssesmentProject.csproj|solutionrelative:assesmentproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\TeamMember\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AssesmentProject\\Views\\TeamMember\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\TeamMember\\Delete.cshtml*",
+              "RelativeToolTip": "AssesmentProject\\Views\\TeamMember\\Delete.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:54:12.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\TeamMember\\Details.cshtml",
+              "RelativeDocumentMoniker": "AssesmentProject\\Views\\TeamMember\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\TeamMember\\Details.cshtml",
+              "RelativeToolTip": "AssesmentProject\\Views\\TeamMember\\Details.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:50:31.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\TeamMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "AssesmentProject\\Views\\TeamMember\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\TeamMember\\Index.cshtml",
+              "RelativeToolTip": "AssesmentProject\\Views\\TeamMember\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:50:16.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "AssesmentProject\\Controllers\\TeamMemberController.cs",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "AssesmentProject\\Controllers\\TeamMemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:42:39.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\TeamMember\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AssesmentProject\\Views\\TeamMember\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\TeamMember\\Edit.cshtml*",
+              "RelativeToolTip": "AssesmentProject\\Views\\TeamMember\\Edit.cshtml*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:44:52.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Tasks [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment1/True/SqlTable/dbo.Tasks.sql",
+              "ToolTip": "dbo.Tasks [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T10:05:34.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.TeamMembers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment1/True/SqlTable/dbo.TeamMembers.sql",
+              "ToolTip": "dbo.TeamMembers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T10:04:56.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241230100356_adddbcontextmg.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Migrations\\20241230100356_adddbcontextmg.cs",
+              "RelativeDocumentMoniker": "AssesmentProject\\Migrations\\20241230100356_adddbcontextmg.cs",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Migrations\\20241230100356_adddbcontextmg.cs",
+              "RelativeToolTip": "AssesmentProject\\Migrations\\20241230100356_adddbcontextmg.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:14:57.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AssesmentProject\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "AssesmentProject\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:14:40.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Projects [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment1/True/SqlTable/dbo.Projects.sql",
+              "ToolTip": "dbo.Projects [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T10:11:46.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "AssesmentProject\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "AssesmentProject\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:12:10.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "AssesmentProject\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Models\\Task.cs",
+              "RelativeToolTip": "AssesmentProject\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:47:52.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\Project\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AssesmentProject\\Views\\Project\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\Project\\Edit.cshtml",
+              "RelativeToolTip": "AssesmentProject\\Views\\Project\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:23:01.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AssesmentProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AssesmentProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:15:12.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Program.cs",
+              "RelativeDocumentMoniker": "AssesmentProject\\Program.cs",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Program.cs",
+              "RelativeToolTip": "AssesmentProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:00:39.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\appsettings.json",
+              "RelativeDocumentMoniker": "AssesmentProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\appsettings.json",
+              "RelativeToolTip": "AssesmentProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T06:01:03.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "AssesmentProject\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Models\\Project.cs",
+              "RelativeToolTip": "AssesmentProject\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:51:59.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Tasks.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.Tasks.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.Tasks.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T07:48:41.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.TeamMembers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.TeamMembers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.TeamMembers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T07:46:59.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AssesmentProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AssesmentProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:35:09.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AssesmentProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mohamed.eslam\\source\\repos\\AssesmentProject\\AssesmentProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AssesmentProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T06:29:01.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

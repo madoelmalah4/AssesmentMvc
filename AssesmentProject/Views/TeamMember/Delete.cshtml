@@ -1,0 +1,28 @@
+﻿@model AssesmentProject.Models.TeamMember
+
+
+<dl class="row">
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.TeamMemberName)
+    </dt>
+    <dd class="col-sm-10" style="margin-left:30px">
+        @Html.DisplayFor(model => model.TeamMemberName)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.TeamMemberEmail)
+    </dt>
+    <dd class="col-sm-10" style="margin-left:30px">
+        @Html.DisplayFor(model => model.TeamMemberEmail)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.TeamMemberRole)
+    </dt>
+    <dd class="col-sm-10" style="margin-left:30px">
+        @Html.DisplayFor(model => model.TeamMemberRole)
+    </dd>
+</dl>
+
+<form asp-action="DeleteConfirm" asp-route-id="@Model.TeamMemberID">
+    <button type="submit" class="btn-danger">Delete</button>
+</form>
+<a asp-controller="Project" asp-action="Index" class="btn btn-primary">Back to List</a>
